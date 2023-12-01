@@ -15,7 +15,7 @@ I'm a Java Backend Developer, I am passionate about coding and dedicated to crea
 
 ## 🌐 Connect with Me
 
-- [LinkedIn]((https://www.linkedin.com/in/fannigorfol/))
-- [Gmail](94fanni@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/fannigorfol/)
+- 94fanni@gmail.com
 
 Feel free to explore my repositories and connect with me. Let's learn and build together! 🚀
